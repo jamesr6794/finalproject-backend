@@ -17,3 +17,9 @@
 <li>Attempt a CSS framework Skeleton</li>
 <li>Host on AWS</li>
 </ul>
+
+## Stretch Goals
+<ul>
+<li>Login/Signup functionality</li>
+<li>Possible Material-UI</li>
+</ul>
